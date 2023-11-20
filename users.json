@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "isAdmin": true,
+    "rememberToken": "123456"
+  },
+  {
+    "firstName": "Raja",
+    "lastName": "Nouman",
+    "email": "rajanouman2000@gmail.com",
+    "password": "password123",
+    "isAdmin": true,
+    "rememberToken": "123456"
+  },
+  {
+    "firstName": "Raja",
+    "lastName": "Hussain",
+    "email": "rajanoumanhussain@gmail.com",
+    "password": "password123",
+    "isAdmin": true,
+    "rememberToken": "123456"
+  }
+]
